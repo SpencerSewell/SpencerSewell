@@ -45,9 +45,9 @@
 
 ---
 
-## <p align="center">Learning Journey</p>
+## <p align="center">Education</p>
 
-<p align="center">I am committed to continuous learning and growth in the field of data analysis. Some relavant mathematics courses I have completed include:</p>
+#### <p align="center"> Bachelor of Science | Mathematics and Statistics | University of North Georgia 2023 </p>
 
 <p align="center">
   - Multivariate Statistics and Stochatic Processes<br>
