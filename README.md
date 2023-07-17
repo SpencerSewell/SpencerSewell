@@ -1,5 +1,5 @@
 # <p align="center">Spencer Sewell</p>
-### <p align="center">Data Analyst | Healthcare</p>
+## <p align="center">Data Analyst | Healthcare</p>
 
 ---
 
