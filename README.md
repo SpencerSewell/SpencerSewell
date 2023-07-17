@@ -1,5 +1,5 @@
 # <p align="center">Spencer Sewell</p>
-## <p align="center">Aspiring Data Analyst | Passionate about Transforming Data into Insights</p>
+## <p align="center">Data Analyst</p>
 
 ---
 
