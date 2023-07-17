@@ -6,11 +6,11 @@
 ## <p align="center">Skills</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Analysis-%E2%9C%94%EF%B8%8F-blue" alt="Data Analysis">
-  <img src="https://img.shields.io/badge/Data%20Manipulation-%E2%9C%94%EF%B8%8F-blueviolet" alt="Data Manipulation">
+  <img src="https://img.shields.io/badge/Data%20Cleaning-%E2%9C%94%EF%B8%8F-blueviolet" alt="Data Cleaning">
   <img src="https://img.shields.io/badge/Data%20Visualization-%E2%9C%94%EF%B8%8F-brightgreen" alt="Data Visualization">
   <img src="https://img.shields.io/badge/SQL-%E2%9C%94%EF%B8%8F-yellow" alt="SQL">
   <img src="https://img.shields.io/badge/Python-%E2%9C%94%EF%B8%8F-yellowgreen" alt="Python">
+  <img src="https://img.shields.io/badge/Tableau%20-%E2%9C%94%EF%B8%8F-blue" alt="Tableau">
   <img src="https://img.shields.io/badge/Statistical%20Analysis-%E2%9C%94%EF%B8%8F-orange" alt="Statistical Analysis">
   <img src="https://img.shields.io/badge/Machine%20Learning-%E2%9C%94%EF%B8%8F-red" alt="Machine Learning">
 </p>
