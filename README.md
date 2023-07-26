@@ -19,7 +19,7 @@
 
 ## <p align="center">Projects</p>
 
-### <p align="center">Project 1: Drum Corps International Web Scraper</p>
+### <p align="center">[Project 1: Drum Corps International Analysis](https://github.com/SpencerSewell/DCI-Analysis)</p>
 
 <p align="center">
   <img src="https://production.assets.dci.org/5d4d02cb694c8b0dc74209c2_-GcnYPzd3bm7L_r2bNgiLIPG9BW7YZ7J.jpg" alt="Project 1" width="500" height="300">
