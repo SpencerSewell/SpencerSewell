@@ -25,7 +25,7 @@
   <img src="https://production.assets.dci.org/5d4d02cb694c8b0dc74209c2_-GcnYPzd3bm7L_r2bNgiLIPG9BW7YZ7J.jpg" alt="Project 1" width="500" height="300">
 </p>
 
-<p align="center">This project involved developing a web scraper in python to collect data from Drum Corps International (DCI), a world class competitive marching band competition. Data is severly incomplete and messy for the 2013 and 2014 competitions, so this scraper grabs everything from 2015 to today. After importing and cleaning the data in SQL, pandas and matplotlib is utilized to perform multivariate regression. This data is visualized in a compelling tableau dashboard which is available for public use in the drum corps community.</p>
+<p align="center">This project involved developing a web scraper in python to collect data from Drum Corps International (DCI), a world class competitive marching band competition. Data is severly incomplete and messy for the 2013 and 2014 competitions, so this scraper grabs everything from 2015 to today. Data is imported into a csv for cleaning and analysis in SQL. This is visualized in a compelling tableau dashboard for members of the community.</p>
 
 ### <p align="center">Project 2: Customer Segmentation for Marketing Campaigns</p>
 
