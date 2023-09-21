@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/Python-%E2%9C%94%EF%B8%8F-yellowgreen" alt="Python">
   <img src="https://img.shields.io/badge/Tableau%20-%E2%9C%94%EF%B8%8F-blue" alt="Tableau">
   <img src="https://img.shields.io/badge/Statistical%20Analysis-%E2%9C%94%EF%B8%8F-orange" alt="Statistical Analysis">
-  <img src="https://img.shields.io/badge/Machine%20Learning-%E2%9C%94%EF%B8%8F-red" alt="Machine Learning">
 </p>
 
 ---
