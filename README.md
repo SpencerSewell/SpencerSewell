@@ -21,6 +21,11 @@ This personal "just for fun" project involved developing a web scraper in Python
 ## Education
 - Bachelor of Science in Mathematics and Statistics | University of North Georgia | 2023
 
+## Epic Certifications/Proficiencies
+- Cogito Fundamentals Self-Study Proficiency
+- Clarity Data Model Self-Study Proficiency
+- Caboodle Data Model Self-Study Proficiency
+- Clinical Data Model Self-Study Proficiency
 
 ## Get in Touch
 I am open to collaboration, learning opportunities, and connecting with like-minded professionals in the data analysis community. If you would like to discuss a project, share insights, or explore potential collaborations, feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/spencer-sewell-4b3338238/). I am always eager to connect and contribute to meaningful data-driven endeavors.
