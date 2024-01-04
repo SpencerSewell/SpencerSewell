@@ -7,7 +7,7 @@
 - Epic Systems (Cogito, Clarity, Caboodle)
 ## Projects
 
-### [Project 1: Drum Corps International Web Scrape and Dashboard](https://github.com/SpencerSewell/DCI-Analysis)
+### [Project 1: Drum Corps International Web Scraper and Dashboard](https://github.com/SpencerSewell/DCI-Analysis)
 
 ![Project 1](https://production.assets.dci.org/5d4d02cb694c8b0dc74209c2_-GcnYPzd3bm7L_r2bNgiLIPG9BW7YZ7J.jpg)
 This personal "just for fun" project involved developing my first ever web scraper in Python with BeautifulSoup to collect data from Drum Corps International (DCI), a world-class competitive marching band competition. After we clean up the data with SQL, we visualize in PowerBI.
