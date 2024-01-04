@@ -14,6 +14,8 @@ This personal "just for fun" project involved developing my first ever web scrap
 
 ## Education
 - Bachelor of Science in Mathematics and Statistics | University of North Georgia | 2023
+- Vice President of Mathematics Club
+- Awarded "Best Statistician" Award for CoHort
 
 ## Get in Touch
 I am open to collaboration, learning opportunities, and connecting with like-minded professionals in the data analysis community. If you would like to discuss a project, share insights, or explore potential collaborations, feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/spencer-sewell-4b3338238/). I am always eager to connect and contribute to meaningful data-driven endeavors.
