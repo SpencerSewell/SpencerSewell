@@ -3,20 +3,14 @@
 
 ## Skills
 - PostgreSQL(pgAdmin4) / Python / R
-- Tableau / PowerBI / SlicerDicer / Reporting Workbench
-- Data Cleaning / Visualization
+- PowerBI
 - Epic Systems (Cogito, Clarity, Caboodle)
 ## Projects
 
-### Project 1: Customer Segmentation for Marketing Campaigns
-
-![Project 1](https://your-project-image-url.com)
-For this project, I worked with a marketing team to segment customers based on their demographic and behavioral characteristics. I utilized clustering algorithms to group customers into distinct segments and provided actionable insights for targeted marketing campaigns. The results of this project led to a significant increase in customer engagement and higher conversion rates.
-
-### [Project 3: Drum Corps International Web Scraper](https://github.com/SpencerSewell/DCI-Analysis)
+### [Project 1: Drum Corps International Web Scrape and Dashboard](https://github.com/SpencerSewell/DCI-Analysis)
 
 ![Project 1](https://production.assets.dci.org/5d4d02cb694c8b0dc74209c2_-GcnYPzd3bm7L_r2bNgiLIPG9BW7YZ7J.jpg)
-This personal "just for fun" project involved developing a web scraper in Python (BeautifulSoup, Pandas) to collect data from Drum Corps International (DCI), a world-class competitive marching band competition. After we clean and analyze the data with SQL, we visualize our findings in PowerBI.
+This personal "just for fun" project involved developing my first ever web scraper in Python with BeautifulSoup to collect data from Drum Corps International (DCI), a world-class competitive marching band competition. After we clean up the data with SQL, we visualize in PowerBI.
 
 ## Education
 - Bachelor of Science in Mathematics and Statistics | University of North Georgia | 2023
