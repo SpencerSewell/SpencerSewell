@@ -12,8 +12,13 @@
 ![Project 1](https://production.assets.dci.org/5d4d02cb694c8b0dc74209c2_-GcnYPzd3bm7L_r2bNgiLIPG9BW7YZ7J.jpg)
 This personal "just for fun" project involved developing my first ever web scraper in Python with BeautifulSoup to collect data from Drum Corps International (DCI), a world-class competitive marching band competition. After we clean up the data with SQL, we visualize in PowerBI.
 
-### [Project 2: Unifying Statistical Distributions](https://github.com/SpencerSewell/Unifying-Statistical-Distributions)
-![Project 1](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Relationships_among_some_of_univariate_probability_distributions.jpg/1200px-Relationships_among_some_of_univariate_probability_distributions.jpg)
+### [Project 2: ISLR College Data Exploration in R](https://github.com/SpencerSewell/ISLR-College-Data-Exploration-in-R)
+![Project 2](https://static.stacker.com/s3fs-public/styles/sar_screen_maximum_large/s3/2020-02/Columbia.png)
+This project uses the College data set from the ISLR package, which provides data on enrollment and graduation rates between private and non private institutes. I use ggplot2 to visualize scatterplots and histograms, hypothesis testing of mean enrollment and mean graduation rates, and linear and multilinear regression models to predict if a school is private and to predict enrollment rates.
+
+
+### [Project 3: Unifying Statistical Distributions](https://github.com/SpencerSewell/Unifying-Statistical-Distributions)
+![Project 3](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Relationships_among_some_of_univariate_probability_distributions.jpg/1200px-Relationships_among_some_of_univariate_probability_distributions.jpg)
 This was my undergraduate research project, where I explored the connections between univariate discrete and continuous models. It builds a facinating roadmap that isn't typically taught in highschool/undergraduate statistics classes!
 
 ## Education
