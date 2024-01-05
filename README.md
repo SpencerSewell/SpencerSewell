@@ -20,7 +20,7 @@ This project uses the College data set from the ISLR package, which provides dat
 
 ### [Project 3: Unifying Statistical Distributions](https://github.com/SpencerSewell/Unifying-Statistical-Distributions)
 ![Project 3](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Relationships_among_some_of_univariate_probability_distributions.jpg/1200px-Relationships_among_some_of_univariate_probability_distributions.jpg)
-This was my undergraduate research project, where I explored the connections between univariate discrete and continuous models. It builds a facinating roadmap that isn't typically taught in highschool/undergraduate statistics classes!
+This was my undergraduate research project, where I explored the connections between univariate discrete and continuous models. It builds a fascinating roadmap that isn't typically taught in highschool/undergraduate statistics classes!
 
 ## Education
 - Bachelor of Science in Mathematics and Statistics | University of North Georgia | 2023
