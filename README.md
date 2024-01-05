@@ -12,6 +12,10 @@
 ![Project 1](https://production.assets.dci.org/5d4d02cb694c8b0dc74209c2_-GcnYPzd3bm7L_r2bNgiLIPG9BW7YZ7J.jpg)
 This personal "just for fun" project involved developing my first ever web scraper in Python with BeautifulSoup to collect data from Drum Corps International (DCI), a world-class competitive marching band competition. After we clean up the data with SQL, we visualize in PowerBI.
 
+### [Project 2: Unifying Statistical Distributions](https://github.com/SpencerSewell/Unifying-Statistical-Distributions)
+![Project 1](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Relationships_among_some_of_univariate_probability_distributions.jpg/1200px-Relationships_among_some_of_univariate_probability_distributions.jpg)
+This was my undergraduate research project, where I explored the connections between univariate discrete and continuous models. It builds a facinating roadmap that isn't typically taught in highschool/undergraduate statistics classes!
+
 ## Education
 - Bachelor of Science in Mathematics and Statistics | University of North Georgia | 2023
 - Vice President of Mathematics Club
