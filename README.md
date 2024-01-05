@@ -3,6 +3,7 @@
 
 ## Skills
 - PostgreSQL(pgAdmin4) / Python / R
+- Microsoft 365 Suite
 - PowerBI
 - Epic Systems (Cogito, Clarity, Caboodle)
 ## Projects
