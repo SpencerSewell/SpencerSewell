@@ -8,15 +8,16 @@
 - Epic Systems (Cogito, Clarity, Caboodle)
 ## Projects
 
-### [Project 1: BellaBeat Fitbit Fitness Dashboard](https://github.com/SpencerSewell/FitBit-Fitness-Tracker-Excel-Dashboard)
 
-![Project 1](https://github.com/SpencerSewell/Pictures/blob/main/BPhoto1.png)
-This data set from Kaggle provided 3rd party fitbit data for a women's focused fitness company called BellaBeat. All data in this project is handled inside of Excel.
+### [Project 1: Drum Corps International Web Scraper and Dashboard](https://github.com/SpencerSewell/DCI-Analysis)
 
-### [Project 2: Drum Corps International Web Scraper and Dashboard](https://github.com/SpencerSewell/DCI-Analysis)
-
-![Project 2](https://production.assets.dci.org/5d4d02cb694c8b0dc74209c2_-GcnYPzd3bm7L_r2bNgiLIPG9BW7YZ7J.jpg)
+![Project 1](https://production.assets.dci.org/5d4d02cb694c8b0dc74209c2_-GcnYPzd3bm7L_r2bNgiLIPG9BW7YZ7J.jpg)
 This personal "just for fun" project involved developing my first ever web scraper in Python with BeautifulSoup to collect data from Drum Corps International (DCI), a world-class competitive marching band competition. After we clean up the data with SQL, we visualize in PowerBI.
+
+### [Project 2: BellaBeat Fitbit Fitness Dashboard](https://github.com/SpencerSewell/FitBit-Fitness-Tracker-Excel-Dashboard)
+
+![Project 2](https://github.com/SpencerSewell/Pictures/blob/main/BPhoto1.png)
+This data set from Kaggle provided 3rd party fitbit data for a women's focused fitness company called BellaBeat. All data in this project is handled inside of Excel.
 
 ### [Project 3: ISLR College Data Exploration in R](https://github.com/SpencerSewell/ISLR-College-Data-Exploration-in-R)
 ![Project 3](https://static.stacker.com/s3fs-public/styles/sar_screen_maximum_large/s3/2020-02/Columbia.png)
